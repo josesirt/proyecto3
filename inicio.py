@@ -21,7 +21,7 @@ def comienzo():
 
    # Nombre de usuario y token de acceso a tu cuenta de GitHub
    username = "joseirt"
-   access_token = "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"
+   access_token = "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"
 
    # Nombre del repositorio en GitHub (solo el nombre del repositorio)
    repo_name = "proyecto3"
